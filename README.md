@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Shaheen, currently working on utilities and libraries in Java and Python framework. 
-I'm learning Spring security framework for OAuth2.0 implementation :V:
+I'm learning Spring security framework for OAuth2.0 implementation ✌️
